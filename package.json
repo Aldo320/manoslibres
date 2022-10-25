@@ -1,0 +1,25 @@
+{
+  "name": "alexsports1324-main",
+  "version": "1.0.0",
+  "description": "AlexSports",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aldo320/AlexSports1324.git"
+  },
+  "keywords": [
+    "2204aaa$$"
+  ],
+  "author": "Aldo Antunez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aldo320/AlexSports1324/issues"
+  },
+  "homepage": "https://github.com/Aldo320/AlexSports1324#readme",
+  "dependencies": {
+    "luxon": "^3.0.4"
+  }
+}

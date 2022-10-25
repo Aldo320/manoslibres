@@ -1,0 +1,38 @@
+  
+[
+{   "id": 1,
+    "producto":"Nike AirMax",
+    "precio": 5490, 
+    "imagen": "../assets/img/Nike-logo.jpg"
+},
+{
+    "id": 2,
+    "producto":"Adidas Coreracer",
+    "precio": 4290,
+    "imagen": "../assets/img/historia-origen-marcas-adidas.jpg"
+},
+{
+    "id": 3,
+    "producto":"Puma Xray Deportivo",
+    "precio": 4990,
+    "imagen": "../assets/img/PUMA-logo.jpg"
+},
+{    
+    "id": 4,
+    "producto":"Reebok Triplehall",
+    "precio": 2880,
+    "imagen": "../assets/img/Reebok.jpg"
+},
+{
+    "id": 5,
+    "producto":"New Balance Lifestyle",
+    "precio": 3990,
+    "imagen": "../assets/img/New-Balance-logo.jpg"
+},
+{
+    "id": 6,
+    "producto":"York Umbro",
+    "precio": 4150,
+    "imagen": "../assets/img/Umbro-Logo-1999.jpg"
+}
+]
